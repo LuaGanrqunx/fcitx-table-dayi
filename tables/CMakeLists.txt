@@ -1,3 +1,7 @@
+set(TXT2MB
+    txt2mb
+  )
+
 set(TABLE_NAME
     dayi3
   )
