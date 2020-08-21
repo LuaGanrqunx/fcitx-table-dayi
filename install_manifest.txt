@@ -1,0 +1,6 @@
+/usr/share/locale/zh_CN/LC_MESSAGES/fcitx-table-dayi.mo
+/usr/share/locale/zh_TW/LC_MESSAGES/fcitx-table-dayi.mo
+/usr/share/icons/hicolor/48x48/apps/fcitx-dayi3.png
+/usr/share/fcitx/imicon/dayi3.png
+/usr/share/fcitx/table/dayi3.conf
+/usr/share/fcitx/table/dayi3.mb

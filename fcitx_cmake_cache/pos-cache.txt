@@ -1,0 +1,2 @@
+zh_CN /home/ganrqunx/Git/fcitx-table-dayi/po/zh_CN.po
+zh_TW /home/ganrqunx/Git/fcitx-table-dayi/po/zh_TW.po

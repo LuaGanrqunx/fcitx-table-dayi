@@ -1,0 +1,17 @@
+# Hashes of file build rules.
+e5abdda772231300ba1561d4a5307110 CMakeFiles/fcitx-addon-translation-handler-1
+e5abdda772231300ba1561d4a5307110 CMakeFiles/fcitx-addon-translation-handler-2
+e5abdda772231300ba1561d4a5307110 CMakeFiles/fcitx-addon-translation-handler-3
+e5abdda772231300ba1561d4a5307110 CMakeFiles/fcitx-addon-translation-handler-4
+e5abdda772231300ba1561d4a5307110 CMakeFiles/fcitx-addon-translation-handler-5
+e5abdda772231300ba1561d4a5307110 CMakeFiles/fcitx-addon-translation-handler-6
+43b1f63709a03eeeed5b3a1d1e7a4ea6 CMakeFiles/uninstall
+b0f28a8c12caad7310e15bf0d0b13e98 fcitx_cmake_cache/mo/zh_CN/fcitx-table-dayi.mo
+27492c5ed31f278d283c8c319e801475 fcitx_cmake_cache/mo/zh_TW/fcitx-table-dayi.mo
+35cdf80d7b80e2f81365a1fc436cf6e0 po/CMakeFiles/fcitx-compile-mo.target
+a2b3a6c9e1f05ef591ad0bafb989435f po/CMakeFiles/fcitx-parse-pos.target
+61f87871fa0fe1f9e8f13a8fb405e1dd po/CMakeFiles/fcitx-translate-pot.target
+c091bf8111c7d0bc0f52c416640918ba tables/CMakeFiles/fcitx-addon-apply-translation-1
+c091bf8111c7d0bc0f52c416640918ba tables/CMakeFiles/table_data
+464f72df663e4f61d3101121d14a34e8 tables/dayi3.conf
+ecd6ff2a469c5ca0246a15ded29b5242 tables/dayi3.mb

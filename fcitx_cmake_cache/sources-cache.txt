@@ -1,0 +1,1 @@
+generic tables/dayi3.conf.in
